@@ -11,7 +11,7 @@
 Olá!! Meu nome é Hugo Leonardo, sou de Belo Horizonte/MG e resolvi me tornar um Desenvolvedor Full Stack por ser um grande entusiasta da tecnologia. Atualmente, aprimoro meus conhecimentos e habilidades estudando na Trybe.
 Meus hobbies são: Cozinhar, futebol, filmes/séries e games.
 Trabalhando consistentemente em minhas hard e soft skills.
-Para me encontrar, envie um e-mail para: hugolfimoes@gmail.com
+Para me encontrar, envie um e-mail para: hugolfsimoes@gmail.com
 
 ### Linguagens e Ferramentas
 <code><img height="20" src="./image/html.png"></code>
