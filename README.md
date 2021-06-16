@@ -24,6 +24,11 @@ Para me encontrar, envie um e-mail para: hugolfsimoes@gmail.com
   <img height="30" src="./image/linux-original.svg">
 </p>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" >
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" />
+</a>
+
+
 
 
 
