@@ -14,7 +14,7 @@ Trabalhando consistentemente em minhas hard e soft skills.
 Para me encontrar, envie um e-mail para: hugolfsimoes@gmail.com
 
 ### Linguagens e Ferramentas
-<section>
+<p>
   <img height="30" src="./image/html.png">
   <img height="30" src="./image/css.png">
   <img height="30" src="./image/javascript.png">
@@ -22,7 +22,7 @@ Para me encontrar, envie um e-mail para: hugolfsimoes@gmail.com
   <img height="30" src="./image/csharp.png">
   <img height="30" src="./image/git-original.svg">
   <img height="30" src="./image/linux-original.svg">
-</section>
+</p>
 
 
 
