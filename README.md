@@ -15,15 +15,25 @@
 </p>
 
 ### Linguagens e Ferramentas
-<p>
-  <img height="30" src="./image/html.png">
-  <img height="30" src="./image/css.png">
-  <img height="30" src="./image/javascript.png">
-  <img height="30" src="./image/react.svg">
-  <img height="30" src="./image/csharp.png">
-  <img height="30" src="./image/git-original.svg">
-  <img height="30" src="./image/linux-original.svg">
-</p>
+
+<div style="display: inline_block"><br>
+    <a href="https://github.com/walterlbf/">
+      <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+      <img align="center" alt="js" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" alt="react" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+      <img align="center" alt="html" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+      <img align="center" alt="css" height="36" width="36" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <img align="center" alt="css" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+      
+  </div>
+  
+  ##
 
 [//]: # (Baseado em: https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
