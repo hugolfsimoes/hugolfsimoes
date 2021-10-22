@@ -29,6 +29,8 @@
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" >
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" />
+  <img align="center" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact&theme=vision-friendly-dark" />
+  </a>
 </a>
 
 
