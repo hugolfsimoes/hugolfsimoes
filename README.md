@@ -28,7 +28,7 @@
 [//]: # (Baseado em: https://github.com/anuraghazra/github-readme-stats#top-languages-card)
 
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" >
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact" />
+  <img align="center" height="166em" src="https://github-readme-stats.vercel.app/api?username=hugolfsimoes&count_private=true&show_icons=true&include_all_commits=true&theme=vision-friendly-dark" />
   <img align="center" height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugolfsimoes&layout=compact&theme=vision-friendly-dark" />
   </a>
 </a>
