@@ -7,7 +7,7 @@
 ### Linguagens e Ferramentas
 
 <div style="display: inline_block"><br>
-    <a href="https://github.com/walterlbf/">
+    <a href="https://github.com/hugolfsimoes/">
       <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
       <img align="center" alt="js" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="react" height="36" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
