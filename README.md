@@ -8,9 +8,9 @@
  <h3>Sobre mim:</h3>
  
  <ul>
-   <li>Sou estagiário de desenvolvimento de software na <strong><a href='https://www.opinionbox.com/' target="_blank" >Opinion Box</a></strong>;</li>
+   <li>Sou analista de desenvolvimento de software na <strong><a href='https://www.opinionbox.com/' target="_blank" >Opinion Box</a></strong>;</li>
    <li>Desenvolvedor Fron-End/Back-End/Full-Stack certificado pela <strong><a href='https://www.betrybe.com/' target="_blank" >Trybe</a></strong>;</li>
-   <li>Graduando em Análise e Desenvolvimento de Sistemas pela  <strong><a href='https://estacio.br/' target="_blank" >Faculdade Estácio de Sá</a></strong>;</li>
+   <li>Graduado em Análise e Desenvolvimento de Sistemas pela  <strong><a href='https://estacio.br/' target="_blank" >Faculdade Estácio de Sá</a></strong>;</li>
    <li>Sou apaixonado por esportes e games;</li>
    <li>Estou sempre em busca de novos conhecimentos;</li>
    <li>Envie e-mail para hugolfsimoes@gmail.com.</li>
